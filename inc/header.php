@@ -42,16 +42,7 @@
                     <ul class="nav navbar-nav">
                         <li class="active"><a href="index.php">Inicio</a></li>
                         <li><a href="about.php">¿Quienes Somos?</a></li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Servicios <i class="fa fa-angle-down"></i></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="#">Desarrollo Web</a></li>
-                                <li><a href="#">Servidores</a></li>
-                                <li><a href="#">Seguridad</a></li>
-                                <li><a href="#">Software</a></li>
-                                <li><a href="#">Redes</a></li>
-                            </ul>
-                        </li>
+                        <li><a href="services.php">Servicios</a></li>
                         <li><a href="#">Diseño Web</a></li>
                         <li><a href="#">Soporte</a></li>
                         <li><a href="#">Contacto</a></li>                        
