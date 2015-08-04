@@ -8,15 +8,18 @@
 				<ul id="main-menu" class="nav nav-pills hidden-xs">
 					<li class="active"><a href="index.php">INICIO</a></li>
 					<li class="dropdown">
-						<a class="dropdown-toggle" data-toggle="dropdown" href="#">WORKSHOPS <span class="caret"></span></a>
+						<a class="dropdown-toggle" data-toggle="dropdown" href="#">SERVICIOS <span class="caret"></span></a>
 						<ul class="dropdown-menu" role="menu">
-							<li><a href="detail.php">WORKSHOP A</a></li>
-							<li><a href="detail.php">WORKSHOP B</a></li>
+							<li><a href="dw.php">DESARROLLO WEB</a></li>
+							<li><a href="server.php">SERVIDORES</a></li>
+							<li><a href="security.php">SEGURIDAD</a></li>
+							<li><a href="software.php">SOFTWARE</a></li>
+							<li><a href="networking.php">REDES</a></li>
 						</ul>
 					</li>
-					<li><a href="#">INSTALACIONES</a></li>
-					<li><a href="#">FAQ</a></li>
-	  				<li><a href="#">CONTACTO</a></li>
+					<li><a href="support.php">SOPORTE</a></li>
+					<li><a href="faq.php">FAQ</a></li>
+	  				<li><a href="contact.php">CONTACTO</a></li>
 				</ul>
 
 				<a href="#" id="mobile-menu-button" class="btn btn-default visible-xs">
@@ -28,11 +31,11 @@
 	<div class="visible-xs">
 		<ul id="mobile-main-menu">
 			<li><a href="index.php">Inicio</a></li>
-			<li><a href="detail.php">Workshop A</a></li>
-			<li><a href="detail.php">Workshop B</a></li>
-			<li><a href="#">Instalaciones</a></li>
-			<li><a href="#">Faq</a></li>
-			<li><a href="#">Contacto</a></li>
+			<li><a href="dw.php">Desarrollo Web</a></li>
+			<li><a href="security.php">Seguridad</a></li>
+			<li><a href="support.php">Soporte</a></li>
+			<li><a href="faq.php">Faq</a></li>
+			<li><a href="contact.php">Contacto</a></li>
 		</ul>
 	</div>
 </header>
